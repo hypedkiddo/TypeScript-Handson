@@ -1,4 +1,4 @@
-# Typescript Hands-on
+# Typescript Hands-on (Learning typescript)
 
 Install typescript globally first
 
